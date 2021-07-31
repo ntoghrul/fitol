@@ -53,6 +53,7 @@ section p{
     margin-left:2rem;
     margin-right:2rem;
     letter-spacing:1px;
+ 
 }
 section h2.biro {
     font-family: 'Raleway', sans-serif;
@@ -158,11 +159,12 @@ ul li{
 section h2.iki {
     font-family: 'Raleway', sans-serif;
     letter-spacing:1px;
-    color:white;
+    color:#FF8B00;
     text-align:left;
     margin-top:40px;
     margin-left:60px;
     font-size:1.3rem;
+    font-weight:900;
 }
 
 ul li{
@@ -170,6 +172,9 @@ ul li{
 }
 ul span{
     color:white;
+}
+.div p{
+    margin-top:1rem;
 }
 
 

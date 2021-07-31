@@ -12,7 +12,7 @@ body{
 #mesq {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
-    width: 45%;
+    width: 85%;
     margin: 0 auto;
   }
   #mesq td, #mesq th {
@@ -33,7 +33,43 @@ body{
     line-height:2;
     font-family: 'Raleway', sans-serif;
     font-size:1.2rem;
-    margin-left:1.5rem;
-    margin-right:1.5rem;
+    margin-left:0.5rem;
+    margin-right:0.5rem;
     letter-spacing:1px;
+}
+section ol {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:1px;
+    color:white;
+    margin-left:2rem;
+    margin-right:2rem;
+    font-size:1.2rem;
+    letter-spacing:1px;
+    margin-top:30px;
+
+    
+  
+}
+section ul {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:1px;
+    color:white;
+    margin-left:2rem;
+    margin-right:2rem;
+    font-size:1.2rem;
+    letter-spacing:1px;
+    margin-top:30px;
+    line-height:2;
+
+    
+  
+}
+section h2.iki {
+    font-family: 'Raleway', sans-serif;
+    letter-spacing:1px;
+    color:#FF8B00;
+    text-align:left;
+    margin-top:40px;
+    margin-left:2.1rem;
+    font-size:1.3rem;
 }
