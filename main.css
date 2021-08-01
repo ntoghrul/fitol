@@ -62,7 +62,7 @@ section h2.biro {
     color:rgb(235, 36, 36);
     text-align:center;
     margin-top:30px;
-    font-size:1.6rem;
+    font-size:1.8rem;
 }
 section ol {
     font-family: 'Raleway', sans-serif;
@@ -133,7 +133,7 @@ span.dot{
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #db3e17;
+    background-color: #df3105;
     color: white;
   }
   section ul {
@@ -177,6 +177,10 @@ ul span{
 .div p{
     margin-top:1rem;
 }
+span.uc{
+    color:#FF8B00;
+}
+
 
 
 
