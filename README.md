@@ -1,1 +1,1 @@
-# https://ntoghrul.github.io/fitol/
+# https://ntoghrul.github.io/fitol/proqramlar.html
