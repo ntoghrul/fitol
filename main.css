@@ -180,6 +180,39 @@ ul span{
 span.uc{
     color:#FF8B00;
 }
+table.kalis th{
+    text-align:center !important;
+   
+}
+#bod{
+    
+    padding-left:0 !important;
+}
+table.kalis td{
+    padding-left:50px !important;
+}
+table.kalis th{
+    text-align:center !important;
+    background-color:#d87802 !important;
+   
+}
+#jim{
+    position:relative;
+    margin-right:90px;
+    margin-left:20px;
+    width:600px;
+    float:right;
+    margin-bottom:200px;
+}
+#hcali{
+    margin-bottom:10px !important;
+}
+
+#gorun{
+    display:none;
+}
+
+
 
 
 
